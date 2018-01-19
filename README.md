@@ -17,7 +17,7 @@ Kindly note that the column number of **QUANTITY** is 6.
 
 Now open your terminal and go to the directory where your `RemoveZeroes.py` is placed. 
 Run `python RemoveZeroes.py` and specify the path to the directory containing your `Product_DB.csv`.
-Enter the CSV filename (_i.e `Product_DB`_) followed by Output filename of your choice.
+Enter the CSV filename (_i.e `Product_DB`_) and Quantity Column Number followed by Output filename of your choice.
 
 _Also note that you need not specify the extension (.csv) as an input_
 
