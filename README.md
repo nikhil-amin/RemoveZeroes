@@ -1,5 +1,5 @@
 # RemoveZeroes
-A Python Script to remove 0 quantity row from a Product Database in CSV file.
+A simple Python Script to remove 0 quantity row from a Product Database in CSV file.
 
 
 Before starting, make sure you have **_Python_** installed in your system.
