@@ -21,6 +21,5 @@ Enter the CSV filename (_i.e `Product_DB`_) followed by Output filename of your 
 
 _Also note that you need not specify the extension (.csv) as an input_
 
-
-
-
+>Here is the screenshot of my output terminal:
+<img src="/.github/TerminalScreenshot.png" width="800" height="450" alt="TerminalScreenshot"/>
